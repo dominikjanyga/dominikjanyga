@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm Dominik! Welcome to my GitHub portfolio. 👋
 
+
+## 🛠️ Skills & Tools
+- Python,
+- SQL,
+
+## 📁 Projects
+### 1. **Network analysis**
 <!--
 **dominikjanyga/dominikjanyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
